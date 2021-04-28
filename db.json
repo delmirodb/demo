@@ -1,5 +1,5 @@
 {
-  "carne": [ "Chuletón", "Entrecot", "Hamburguesa", "Fajitas", "Bistec"]
-  "pollo": [ "Nuggets", "Alitas", "Pollo asado", "Pollo agridulce", "Cordon Bleu"]
-  "pescado": [ "Bacalao", "Sardinas", "Pez espada", "Pulpo", "Camarones"]
+	"carne": ["Chuletón", "Entrecot", "Hamburguesa", "Fajitas", "Bistec" ],
+	"pollo": ["Nuggets", "Alitas", "Pollo asado", "Pollo agridulce", "Cordon Bleu" ],
+	"pescado": ["Bacalao", "Sardinas", "Pez espada", "Pulpo", "Camarones" ]
 }
